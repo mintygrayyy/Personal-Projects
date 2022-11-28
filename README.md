@@ -1,2 +1,2 @@
 # Personal-Projects
-Personal projects I'm developing :)
+Personal projects I'm working/worked on :)
