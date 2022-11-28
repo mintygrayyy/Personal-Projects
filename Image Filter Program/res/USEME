@@ -1,7 +1,0 @@
-The console will first give the user a list of commands that can be run. The user must first load
-their image into the console by using "load filepath name". Once the image is loaded in, the user
-can apply any filter onto it and the console will output if the filter has been successfully added.
-All filters should be written in the format of "filter fileName newFileName" with the exception
-of brighten and darken which should both contain integer values that show how much should be
-brightened or darkened. The user can then save any of the images by using "save savedFilePath fileName".
-The program can be closed by typing quit.
